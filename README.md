@@ -44,7 +44,7 @@ The Power BI dashboard highlights the following:
 
 ### Dashboard Preview
 
-![Dashboard Preview](imdb_dashboard.png)
+![Dashboard Preview](https://github.com/Abdulwaashim/IMDb-Movie-Dataset-Analysis---Case-Study/blob/main/imdb_dashboard(img).png)
 
 ## Technical Details
 
